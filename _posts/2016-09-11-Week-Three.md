@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week Two
+---
+
 **What Did I Do This Week?**
 
 This week the main thing on my mind was finished our first project, Collatz.  The project ended up being both easier and harder than I was expecting.  For one, the actually programming part of the project was very straightforward.  I probably only spend about 2 or 3 hours solving the problem and implementing a cache.  The rest of the project took significantly more time.  All the tools and overhead required to submit the project seemed excessive and were time consuming.  However, I believe once I get better at all of the tools like Docker and Travis this amount of overhead time will be much less.
