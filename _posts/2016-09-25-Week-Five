@@ -1,0 +1,20 @@
+---
+layout: post
+title: Week Five
+---
+
+**What Did I Do This Week?**
+
+This last week I worked on finishing our second project, Netflix.  This project felt much better than the previous one because I knew how to set it up and what Professor Downing was expecting.  However, with the move to Github classrooms meant lots of problems for Travis CI.  At first the projects wouldn't even build, but after one student contacted the support team it worked but could only process one build at a time for the entire class.  This meant that it took several hours for my project to even build on Thursday which I am sure was frusterating for many people, including myself.  Other than that I felt like I am starting to get the hang of things in this class.
+
+**What Is In My Way?**
+
+I feel slightly behind other classmates in C++ knowledge.  During lecture, I seem to have trouble writing the methods that Professor Downing wants us to complete.  I assume the test will have similar questions so I need to study in order to catch up with the class.  Also, finding a programming partner for project 3 will help me stay motivated and not procrastinate.  I am looking to start early on this next project so that there are no issues when the deadline comes around.
+
+**What Will I Do Next Week?**
+
+Next week I plan on getting prepared for our first midterm as well as going to office hours to get extra help.  This fall semester has probably been my busiest since I got here and I need to make it a priority to get ahead in classes.  Time management is huge, especially with adding another programming partner and their busy schedule.
+
+**Tip of the Week**
+
+I didn't know how big of a tool Docker was until I took this class.  I recently came across an article that showcased many Docker add-ons that might be useful outside of this class.  Here is a link to the article: [http://www.midvision.com/blog/10-open-source-docker-tools-you-should-be-using]
